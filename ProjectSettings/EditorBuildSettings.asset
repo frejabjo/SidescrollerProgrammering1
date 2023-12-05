@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cbb54e445677c6b42a90ccb50719d6a9
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: f64e62640172ef349921c35fbb91c576
+  - enabled: 1
+    path: Assets/Scenes/Sidescroller0.unity
+    guid: 7bed46cbdeb482846b065629da19e5d0
   m_configObjects: {}
